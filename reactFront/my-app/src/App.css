@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+  margin-left: 50;
+  position : center;
+}
+
+.App-header {
+  background-color: #FFF;
+  height: 55px;
+  padding: 20px;
+  color: white;
+}
+
+.App-footer {
+  background-color: #FFF;
+  height: 55px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.App-body {
+  height : 300px;
+  margin-left : 50px;
+  padding: 20px;
+  position : center;
+}
+
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
