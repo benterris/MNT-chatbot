@@ -1,6 +1,10 @@
 # MNTBot
 
-**MNTBot** is a chatbot I made for the **Mutuelle Nationale Territoriale**.
+**MNTBot** is a chatbot I made for the **Mutuelle Nationale Territoriale**. It mainly focuses on managing professional trips and buying train & hotel tickets.
+
+<div align="center">
+<img src="img/screenApp.png" alt="screen app" style="width: 600px;">
+</div>
 
 ## How to install
 
